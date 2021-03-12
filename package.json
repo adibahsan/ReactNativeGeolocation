@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@voximplant/react-native-foreground-service": "^2.0.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
+    "react-native-geolocation-service": "^5.2.0",
     "react-native-location": "^2.5.0"
   },
   "devDependencies": {
